@@ -1,6 +1,6 @@
-**CHAT BOT BUILT MAINLY FOR DEBUGGING PURPOSES**
-  *Uses Deepseek API*
+# CHAT BOT BUILT MAINLY FOR DEBUGGING PURPOSES
+  ## *Uses Deepseek API*
 
 
-Under DEVELOPMENT
-waiting to getthe apikey for testing
+- **Under DEVELOPMENT**
+- *waiting to getthe apikey for testing*
